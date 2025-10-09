@@ -1,10 +1,24 @@
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/40b8dafa-4297-4d6b-bab2-f241c02c2559" />
-<img width="592" height="480" alt="image" src="https://github.com/user-attachments/assets/c03eee47-d765-4754-8836-6435d2759dac" />
-<img width="592" height="480" alt="image" src="https://github.com/user-attachments/assets/061f578d-5052-455d-a556-430e6ced69b1" />
-<img width="592" height="480" alt="image" src="https://github.com/user-attachments/assets/98fde315-0c42-4da8-8333-be719fd16939" />
-<img width="592" height="480" alt="image" src="https://github.com/user-attachments/assets/ef7611b1-1b32-45fc-9262-a346ac95c9e7" />
-<img width="593" height="480" alt="image" src="https://github.com/user-attachments/assets/e08f1ba4-3a8e-45e1-83c8-d944e75802ea" />
-<img width="592" height="480" alt="image" src="https://github.com/user-attachments/assets/6ab9af4e-9b53-41cd-9a6a-b64ac7a04b40" />
-<img width="593" height="480" alt="image" src="https://github.com/user-attachments/assets/9208456f-ce95-481b-bc68-4f0cdd09378c" />
-<img width="593" height="480" alt="image" src="https://github.com/user-attachments/assets/5867fc58-911d-4a10-b883-ca6888dec62f" />
-<img width="593" height="480" alt="image" src="https://github.com/user-attachments/assets/40cb6235-f359-40b7-8956-6423a4b576d0" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/40b8dafa-4297-4d6b-bab2-f241c02c2559" width="49%">
+  <img src="https://github.com/user-attachments/assets/c03eee47-d765-4754-8836-6435d2759dac" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/061f578d-5052-455d-a556-430e6ced69b1" width="49%">
+  <img src="https://github.com/user-attachments/assets/98fde315-0c42-4da8-8333-be719fd16939" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ef7611b1-1b32-45fc-9262-a346ac95c9e7" width="49%">
+  <img src="https://github.com/user-attachments/assets/e08f1ba4-3a8e-45e1-83c8-d944e75802ea" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ab9af4e-9b53-41cd-9a6a-b64ac7a04b40" width="49%">
+  <img src="https://github.com/user-attachments/assets/9208456f-ce95-481b-bc68-4f0cdd09378c" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5867fc58-911d-4a10-b883-ca6888dec62f" width="49%">
+  <img src="https://github.com/user-attachments/assets/40cb6235-f359-40b7-8956-6423a4b576d0" width="49%">
+</p>
